@@ -1,0 +1,26 @@
+<annotation>
+	<folder>positive</folder>
+	<filename>IMG_4043.JPG</filename>
+	<path>C:\toilet_sign_decision\dataset\positive\IMG_4043.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4284</width>
+		<height>5712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toilet_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>1292</ymin>
+			<xmax>3310</xmax>
+			<ymax>4301</ymax>
+		</bndbox>
+	</object>
+</annotation>

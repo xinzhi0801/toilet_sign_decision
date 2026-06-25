@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OpenCV local tools
+opencv/
+opencv34/
+
+# Training intermediate files
+train/samples.vec
+train/classifier/
+*.vec
+
+# Large videos
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# System files
+.DS_Store
+Thumbs.db
